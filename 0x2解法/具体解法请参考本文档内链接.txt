@@ -1,0 +1,3 @@
+【有道云笔记】HCIE Datacom Lab   EI
+https://share.note.youdao.com/s/YLPIDvUF
+解法内请检查变化，例如QOS、ISIS认证等无需配置 
